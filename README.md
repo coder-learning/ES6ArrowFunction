@@ -43,7 +43,7 @@ If the function have single line with a return, then the return statment does no
 var sayHi = name => 'Hi ' + name;
 ```
 
-### Rule 3.1 - Implicit Return - as Object
+### Rule 3.2 - Implicit Return - as Object
 If the function have single line with a return as object, then the return statment does not have to be enclosed in {}.  So the sayHi arrow function can be rewitten as below.
 
 ```
